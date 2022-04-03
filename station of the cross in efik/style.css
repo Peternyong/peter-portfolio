@@ -1,0 +1,21 @@
+.firststation, .secondstation,.thirdstation,.fourthstation,.fifthstation,.sixthstation,.sevenstation,.eightstation,.ninthstation,.tenthstation,.eleventhstation,.Twelfthstation,.thirteenthstation,.fourteenthstation{
+    
+    align-items: center;
+    text-align: center;
+    justify-items: center;
+    justify-content: center;
+    color: red;
+}
+.station-1-body,.station-2-body,.station-3-body,.station-4-body,.station-5-body,.station-6-body,.station-7-body,.station-8-body,.station-9-body,.station-10-body,.station-11-body,.station-12-body, .station-13-body,.station-14-body,.conclusion,.Opening{
+    padding: 50px;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.button0:hover,.button1:hover,.button2:hover,.button3:hover,.button4:hover,.button5:hover,.button6:hover,.button7:hover,.button8:hover,.button9:hover,.button10:hover,.button11:hover,.button12:hover,.button13:hover,.button14:hover,.button15:hover{
+    background-color: rgb(130, 189, 130);
+    color: black;
+    border: 2px solid rgb(175, 192, 175);
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+ 
